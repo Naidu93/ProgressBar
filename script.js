@@ -33,7 +33,7 @@ prev.addEventListener("click",()=>{
 
 })
 
-
+// function to update ui
 function updateUI(){
     circles.forEach((circle,idx)=>{
         if(idx < currentActive){
