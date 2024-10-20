@@ -96,6 +96,6 @@
   }
   
   .btn:disabled {
-    background-color: var(--custom  -border-empty);
+    background-color: var(--custom-border-empty);
     cursor: not-allowed;
   }
